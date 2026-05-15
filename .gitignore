@@ -1,0 +1,23 @@
+# Python
+venv/
+newenv/
+backend/venv/
+backend/newenv/
+__pycache__/
+*.pyc
+
+# FAISS
+backend/faiss_index/
+
+# Uploaded PDFs
+backend/data/
+
+# Frontend
+frontend/node_modules/
+
+# Environment Variables
+frontend/.env
+
+# OS files
+desktop.ini
+.DS_Store
